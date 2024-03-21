@@ -44,7 +44,7 @@ This phase evaluates the results of the hypothesis test and insights derived fro
 Finally, the findings and insights are documented in the form of an article published on Medium and an interactive dashboard deployed in Power BI to facilitate exploration and dissemination of the results to a wider audience.
 
 ## Resources
-* The article published on medium can be aceesed via this link
+* The article published on medium can be accessed via this link
 * The Power Bi dashboard can also be accessed here
 
 ## Appreciation
