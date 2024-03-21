@@ -1,4 +1,4 @@
-# The-India-Start-Up-Ecosystem-Project
+# The-Indian-Start-Up-Ecosystem-Project
 ## Introduction
 This repository contains the code and resources for conducting an analysis of startup funding in India using the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework. The analysis aims to provide insights into the funding trends, top sectors, investor behavior, and geographical distribution of startup funding in India. CRISP-DM is a widely used methodology for conducting data mining or data analysis projects. It consists of six phases:
 * Business understanding: understanding the needs of my team
@@ -36,3 +36,12 @@ These selected analytical questions were answered using visualizations.
 * Which ten sectors received the most funding?
 * Which ten sectors received the least funding?
 * How many start-ups got funded each year?
+
+## Evaluation
+This phase evaluates the results of the hypothesis test and insights derived from answers to some of the analytical questions and how they address the business objectives. The hypothesis test results shows the p-value (0.9997454509325898) is greater than the Significance value (0.05) hence, we fail to reject the null hypothesis. This means that our null hypothesis ('The Sector a start-up belongs to has no significant impact on the funding amount it receives') is correct. More information on some of the insights derived and recommendations is available in the jupyter notebook. 
+
+## Deployment
+Finally, the findings and insights are documented in the form of an article published on Medium and an interactive dashboard deployed in Power BI to facilitate exploration and dissemination of the results to a wider audience.
+
+
+
