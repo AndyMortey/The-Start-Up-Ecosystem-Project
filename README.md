@@ -43,5 +43,16 @@ This phase evaluates the results of the hypothesis test and insights derived fro
 ## Deployment
 Finally, the findings and insights are documented in the form of an article published on Medium and an interactive dashboard deployed in Power BI to facilitate exploration and dissemination of the results to a wider audience.
 
+## Resources
+* The article published on medium can be aceesed via this link
+* The Power Bi dashboard can also be accessed here
+
+## Appreciation
+I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about [Azubi Africa here](https://medium.com/@azubiafrica) and take a few minutes to visit this link to learn more about Azubi Africa life-changing [programs](https://bit.ly/41CGCwK)
+
+## Tags
+[Azubi Data Science](https://bit.ly/3ARq742)
+
+
 
 
