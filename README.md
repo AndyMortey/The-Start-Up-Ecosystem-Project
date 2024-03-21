@@ -22,3 +22,17 @@ In this phase, we delve into gathering and preparing relevant datasets encompass
 
 ## Data Preparation
 In this phase, data preprocessing techniques are applied to clean, integrate, and transform the raw data into a suitable format for analysis. This involves handling missing values, outliers, inconsistencies, standardizing data formats, ensuring the data is suitable for hypothesis testing and visualization. And performing feature engineering to extract pertinent features such as aggregating funding amounts by sector and creating categorical variables for visualization purposes. Finally, we integrate and merge datasets as needed to create a unified dataset for analysis, ensuring compatibility and consistency across variables. 
+
+## Hypothesis Testing
+The following hypotheses was formulated based on the business objectives and data exploration findings and was tested using ANOVA test.
+* Null Hypothesis: The Sector a start-up belongs to has no significant impact on the funding amount it receives.
+* Alternate Hypothesis: The Sector a start-up belongs to has a significant impact on the funding amount it receives.
+
+## Answering Analytical Questions
+These selected analytical questions were answered using visualizations.
+* What is the total funding amount received by start-ups each year?
+* Which ten start-ups received the most funding?
+* Which ten start-ups received the least funding?
+* Which ten sectors received the most funding?
+* Which ten sectors received the least funding?
+* How many start-ups got funded each year?
